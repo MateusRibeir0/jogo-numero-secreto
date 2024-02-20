@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado no curso de lógica de programação, onde o objetivo do jogo é que o usuário adivinhe por meio de dicas básicas qual é o número secreto.</p>
 
 ## Tecnologias
 <div>

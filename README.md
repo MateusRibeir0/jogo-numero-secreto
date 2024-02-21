@@ -11,7 +11,6 @@ Desenvolvido como parte do curso de lógica de programação, este projeto ofere
 =======
 <h2>Sobre</h2>
 <p>Projeto utilizado no curso de lógica de programação, onde o objetivo do jogo é que o usuário adivinhe por meio de dicas básicas qual é o número secreto.</p>
->>>>>>> 1367da3e4e42dd1051ac0f30fd4f6a25378de4eb
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
